@@ -1,0 +1,8 @@
+streamlit
+openai
+azure-identity
+pydantic
+requests
+python-dotenv
+pytest
+black

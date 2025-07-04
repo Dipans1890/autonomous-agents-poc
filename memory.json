@@ -1,0 +1,77 @@
+[
+  {
+    "agent": "cynthia",
+    "project_id": "PROJ-001",
+    "type": "user_story",
+    "content": "User story created"
+  },
+  {
+    "agent": "crystal",
+    "project_id": "PROJ-001",
+    "type": "task",
+    "content": "Task created based on Cynthia's input"
+  },
+  {
+    "agent": "cynthia",
+    "project_id": "PROJ-001",
+    "type": "user_story",
+    "content": {
+      "title": "Login Flow",
+      "story": "As a user, I want to log in securely so that my data is safe",
+      "acceptance_criteria": [
+        "Valid email",
+        "Password > 8 chars"
+      ]
+    }
+  },
+  {
+    "agent": "cynthia",
+    "project_id": "PROJ-001",
+    "type": "user_story",
+    "content": "User story created"
+  },
+  {
+    "agent": "crystal",
+    "project_id": "PROJ-001",
+    "type": "task",
+    "content": "Task created based on Cynthia's input"
+  },
+  {
+    "agent": "cynthia",
+    "project_id": "PROJ-001",
+    "type": "user_story",
+    "content": {
+      "title": "Login Flow",
+      "story": "As a user, I want to log in securely so that my data is safe",
+      "acceptance_criteria": [
+        "Valid email",
+        "Password > 8 chars"
+      ]
+    }
+  },
+  {
+    "agent": "cynthia",
+    "project_id": "PROJ-001",
+    "type": "user_story",
+    "content": {
+      "title": "Login Flow",
+      "story": "As a user, I want to log in securely so that my data is safe",
+      "acceptance_criteria": [
+        "Valid email",
+        "Password > 8 chars"
+      ]
+    }
+  },
+  {
+    "agent": "cynthia",
+    "project_id": "PROJ-002",
+    "type": "user_story",
+    "content": "User story created"
+  },
+  {
+    "agent": "crystal",
+    "project_id": "PROJ-002",
+    "type": "task",
+    "content": "Task created based on Cynthia's input"
+  }
+]
